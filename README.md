@@ -28,4 +28,32 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](Documentation/readme-end-banner.png)
+# Dice Rolling App
+
+This is a simple iOS app that simulates the rolling of two dice. When you click on the "Roll" button, the app generates random numbers for each die and displays the result.
+
+## Features
+
+- Two dice are rolled simultaneously.
+- The app displays the outcome of each die as well as the total sum.
+- A "Roll" button triggers the rolling animation.
+
+## Screenshots
+
+Include screenshots or GIFs demonstrating the app's functionality.
+
+## Getting Started
+
+These instructions will help you get a copy of the project up and running on your local machine.
+
+### Prerequisites
+
+- Xcode installed on your machine.
+
+### Installing
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   
 
